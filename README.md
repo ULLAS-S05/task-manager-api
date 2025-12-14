@@ -268,16 +268,6 @@ Role-based access control
 Cloud deployment
 
 Frontend integration (React)
-
-👤 Author & Contact Information
-
-Name: Your Name Here
-Contact Number: +91-6363862848 (only Whatsup)
-Email ID: ullasgowda1917@gmail.com
-
-LinkedIn: in_www.linkedin.com/in/ullas-s-2848u
-
-
 This project demonstrates practical backend development skills aligned with real-world applications and can be confidently showcased in:
 
 GitHub portfolio
